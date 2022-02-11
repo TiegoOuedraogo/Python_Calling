@@ -8,3 +8,10 @@ print(new_message)
 # string are imunable look what is going on here
 message = message + " " + price
 print(id(message)," This is for the second message") #this message is totality from different from the messgae on top
+name= 'Ouedraogo'
+# the whole variable
+print(name)
+# index 6
+print(name[6])
+# index before the last one
+print(name[-2])
